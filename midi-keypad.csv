@@ -1,4 +1,4 @@
-"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+
 1;"D1, D2, D3";"LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount";3;"SK6812MINI-E";;;
 2;"J1";"Capacitive Keys";1;"Capacitive Touch Buttons";;;
 3;"RV1, RV2";"Potentiometer_Bourns_PTA1543_Single_Slide";2;"Slider";;;
